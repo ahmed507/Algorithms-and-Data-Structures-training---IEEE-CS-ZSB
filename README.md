@@ -22,6 +22,6 @@
 | [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change/problem)| Medium | [The_Coin_Change_Problem.py](CS21-Science-Week-4/The_Coin_Change_Problem.py) |
 | [4Sum](https://leetcode.com/problems/4sum)| Medium | [4sum.py](CS21-Science-Week-5/4sum.py) |
 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| Medium | [Convert_Sorted_List_to_Binary_Search_Tree.py](CS21-Science-Week-5/Convert_Sorted_List_to_Binary_Search_Tree.py) |
-| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| Medium | [Letter_Combinations_of_a_Phone Number.py](CS21-Science-Week-5/Letter_Combinations_of_a_Phone Number.py) |
+| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| Medium | [Letter_Combinations_of_a_Phone_Number.py](CS21-Science-Week-5/Letter_Combinations_of_a_Phone_Number.py) |
 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| Medium | [Swap_Nodes_in_Pairs.py](CS21-Science-Week-5/Swap_Nodes_in_Pairs.py) |
 
