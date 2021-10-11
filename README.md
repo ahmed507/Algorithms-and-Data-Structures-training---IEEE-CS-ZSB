@@ -15,3 +15,13 @@
 | [Exciting Bets](https://codeforces.com/problemset/problem/1543/A)| A | [Exciting_Bets.py](CS21-Science-Week-3/Exciting_Bets.py) |
 | [MEXor Mixup](https://codeforces.com/problemset/problem/1567/B)| B | [MEXor_Mixup.py](CS21-Science-Week-3/MEXor_Mixup.py) |
 | [Pair Programming](https://codeforces.com/problemset/problem/1547/C)| C | [Pair_Programming.py](CS21-Science-Week-3/Pair_Programming.py) |
+| [Hopscotch](https://codeforces.com/problemset/problem/141/B)| B | [Hopscotch.py](CS21-Science-Week-4/Hopscotch.py) |
+| [Is it rated?](https://codeforces.com/problemset/problem/807/A)| A | [Is_it_rated.py](CS21-Science-Week-4/Is_it_rated.py) |
+| [Kefa and Company](https://codeforces.com/problemset/problem/580/B)| B | [Kefa_and_Company.py](CS21-Science-Week-4/Kefa_and_Company.py) |
+| [Meeting](https://codeforces.com/problemset/problem/144/B)| B | [Meeting.py](CS21-Science-Week-4/Meeting.py) |
+| [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change/problem)| Medium | [The_Coin_Change_Problem.py](CS21-Science-Week-4/The_Coin_Change_Problem.py) |
+| [4Sum](https://leetcode.com/problems/4sum)| Medium | [4sum.py](CS21-Science-Week-5/4sum.py) |
+| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| Medium | [Convert_Sorted_List_to_Binary_Search_Tree.py](CS21-Science-Week-5/Convert_Sorted_List_to_Binary_Search_Tree.py) |
+| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| Medium | [Letter_Combinations_of_a_Phone Number.py](CS21-Science-Week-5/Letter_Combinations_of_a_Phone Number.py) |
+| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| Medium | [Swap_Nodes_in_Pairs.py](CS21-Science-Week-5/Swap_Nodes_in_Pairs.py) |
+
